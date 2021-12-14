@@ -2,7 +2,8 @@
 
 maturitni cetba :)
 
-## compile to pdf
+## compiling to pdf
 
 - install `pandoc`
-- run `build.sh`
+- `chmod +x build.sh build_single.sh`
+- run `build.sh` nebo ve VS Code `Ctrl + Shift + B`
