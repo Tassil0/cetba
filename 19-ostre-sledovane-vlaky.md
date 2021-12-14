@@ -10,7 +10,7 @@ header-includes: |
 	\usepackage{fancyhdr}
 	\pagestyle{fancy}
 	\fancyhead[R]{Filip Sikora}
-	\fancyhead[L]{Ostře sledované vlaky}
+	\fancyhead[L]{Ostře sledované vlaky - Bohumil Hrabal}
 ---
 
 # Ostře sledované vlaky - Bohumil Hrabal

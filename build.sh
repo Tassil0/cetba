@@ -1,7 +1,7 @@
 #!/bin/bash
 
 for f in *.md; do
-	if [ "$f" == "README.md" ] || [ "$f" == "README.md" ]; then
+	if [ "$f" == "README.md" ] || [ "$f" == "00-template.md" ]; then
 		continue
 	fi
 	echo "Building: $f"
