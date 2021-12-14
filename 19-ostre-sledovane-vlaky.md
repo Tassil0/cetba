@@ -15,9 +15,9 @@ header-includes: |
 
 # Ostře sledované vlaky - Bohumil Hrabal
 
-**Vydáno:** :rok:
+**Vydáno:** 1965
 
-**Žánr:** :zanr: **Druh:** :druh:
+**Žánr:** Novela s tématem okupace **Druh:** epika
 
 ## Myšlenka
 
@@ -31,7 +31,12 @@ Kritika fašismu a války, která přinesla mnoho zbytečných ztrát na živote
 
 ## Postavy
 
-- **:postava:** - :charakteristika:
+- **Miloš Hrna** - pracuje jako výpravčí, je mladý, nezkušený, citlivý, lítostivý, potýká se svým trápením v sexuálním životě a nedostatkem zkušeností, své problémy se pokouší vyřešit neúspěšnou sebevraždou jeho častou myšlenkou byla otázka, zda je opravdový mužský
+- **Ladislav Hubička** - výpravčí, „ Don Juan“, má pestrý a úspěšný milostný život například s mladou telegrafistkou Zdeničkou Svatou, které při milostných hrátkách orazítkoval celou zadnici německými razítky ze stanice
+- **Zdena Svatá** - telegrafistka, které výpravčí Hubička orazítkoval zadeček německými razítky při milostných hrátkách, krásná
+- **Pan přednosta stanice** - přísný a důsledný, ale vypadá poněkud zanedbale, jelikož většinu svého volného času tráví v holubníku, kde se stará o holuby, které bezmezně miluje
+- **Máša** - přítelkyně Miloše Hrmy, kvůli ní chtěl Miloš spáchat sebevraždu, protože selhal při jejich pokusu o první milování
+- **Viktoria Freie** - krásná Rakušanka, která přinesla Hubičkovi výbušninu, která měla vyhodit do povětří ostře sledovaný vlak, Miloš s ní prožil svoje poprvé na kanapi v kanceláři pana přednosty
 
 \pagebreak
 

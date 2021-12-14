@@ -2,7 +2,7 @@
 
 maturitni cetba :)
 
-## usage
+## compile to pdf
 
 - install `pandoc`
 - run `build.sh`
