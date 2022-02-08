@@ -1,5 +1,5 @@
 ---
-#title: "Malý princ - Antoine de Saint-Exupéry"
+#title: ""
 author: Filip Sikora
 fontfamily: times
 date: 22-03-2021
