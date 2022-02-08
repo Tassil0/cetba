@@ -13,46 +13,42 @@ header-includes: |
 	\fancyhead[L]{:nazev-knihy:}
 ---
 
-# :nazev-knihy: - :autor:
+# nazev-knihy - autor
 
-**Vydáno:** :rok:
+**Vydáno:** rok
 
-**Žánr:** :zanr: **Druh:** :druh:
+**Žánr:** zanr **Druh:** druh
 
-## Myšlenka
+## Téma a motiv
 
-:myslenka:
+myslenka
+
+## Časoprostor
 
 ## Jazykové prostředky a styl
 
-:jazyk:
+jazyk
 
 ## Postavy
 
-- **:postava:** - :charakteristika:
-
-\pagebreak
+- **postava** - charakteristika
 
 ## Obsah
 
-:obsah:
-
-\pagebreak
+obsah
 
 ## Umělecký směr
 
-### :umelecky-smer:
+### umelecky-smer
 
-- :popis-smeru:
-- **Čeští autoři:** :autori-cz:
-- **Zahraniční autoři:** :autori:
+- popis-smeru
+- **Čeští autoři:** autori-cz
+- **Zahraniční autoři:** autori
 
-\pagebreak
+# autor
 
-# :autor:
-
-:o-autorovi:
+o-autorovi
 
 ## Dílo
 
-- :dilo:
+- dilo
