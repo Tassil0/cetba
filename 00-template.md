@@ -47,10 +47,6 @@ header-includes: |
 - **Čeští autoři:** :autori-cz:
 - **Zahraniční autoři:** :autori:
 
-## Můj názor
-
-:muj-nazor:
-
 \pagebreak
 
 # :autor:
