@@ -15,22 +15,36 @@ header-includes: |
 
 # Robinson Crusoe - Daniel Defoe
 
-**Vydáno:** 1719
+**Vydáno:** 1719 (velmi moderní)
 
 **Žánr:** dobrodružný román **Druh:** epika
 
-## Myšlenka
+**Robinsonáda** - knihy o přežití na opuštěném/izolovaném místě (Golding - Pán much, Verne - Dva roky prázdnin, Weir - Marťan, film Trosečník)
 
-Člověk je schopný se přizpůsobit podmínkám, ve kterých se nachází.
+## Téma a motiv
+
+- přežití na pustém ostrově
+- Člověk je schopný se přizpůsobit podmínkám, ve kterých se nachází.
+
+## Časoprostor
+
+- pusté moře a ostrov
+- na ostrově strávil 28 let
 
 ## Jazykové prostředky a styl
 
-Často přímá řeč, monology, dialogy, někdy i přechodníky, vypravěčem je sám Robinson, vyprávění je v ich formě, příběh má jednu dějovou linii a je vyprávěn chronologicky, forma deníkových záznamů, popis postav a prostředí je detailní.
+- próza
+- ich-forma (vypravěčem je Robinson)
+- deník, kapitoly
+- přímá řeč, monology, dialogy, přechodníky
+- dějová linie, vyprávěná chronologicky
+- detailní popis postav a prostředí
 
 ## Postavy
 
 - **Robinson Crusoe** - touží po dobrodružství, pracovitý, vynalézavý, vytrvalý, praktický, námořník, původně Robinson Kreutznauer
-- **Pátek** - Robinsonův přítel, žil s ním několik let na opuštěném ostrově, touží po rodině a přátelích, učenlivý, vynalézavý, šikovný, mrštný, věrný přítel
+- **Pátek** - Robinsonův přítel, žil s ním několik let na opuštěném ostrově, touží po rodině a přátelích, učenlivý, vynalézavý, šikovný, mrštný, věrný přítel
+- **Xury** - otrok, kterého na začátku knihy osvobodil
 
 \pagebreak
 
@@ -42,17 +56,16 @@ Bouře je vyžene z bortící se lodi do člunu. Ten se s nimi převrhne a z cel
 
 Při obhlídce ostrova jednou narazí na divošské lidožroutské hody. Jeden zajatý divoch (potrava) jim uteče, a proto se za ním dva z nich pustí. Robinson po nich vystřelí, čímž divochovi zachrání život. Ten je pak Robinsonovi vděčný a poslouchá jej na slovo. Robinson mu dá jméno Pátek, neboť v ten den ho zachránil. A tak žijí spolu. Robinson Pátka učí o Bohu, v něhož však sám ještě před svým ztroskotáním nevěřil. Spolu pak zachrání ještě dva lidi před smrtí v divošských rukou. Jeden z nich je Pátkův otec, druhý je Španěl. Poblíž ostrova je totiž divošský ostrov, na kterém žije kromě divochů už čtvrtým rokem i šestnáct Španělů. Časem se tu konečně objeví loď – ta sem však přijela proto, aby zde nechala svého kapitána napospas osudu... Robinsonovi se podaří námořníky usmířit, čímž zachrání kapitána, a touto lodí se konečně dostane do Evropy. Do Anglie dorazí 11. června 1687 – 28 let po ztroskotání lodi. Zjistí, že za tu dobu se z něj díky brazilskému ingeniu stal boháč. Potom už putuje po souši.
 
-\pagebreak
-
 ## Umělecký směr
 
 ### Osvícenství
 
-- intelektuální hnutí, životní postoj a filosofický směr 17. až 18. století, který znamenal převrat ve vývoji evropského myšlení. Osvícenství je odmítavou reakcí na barokní religiozitu, proti níž staví vlastní prostředky a možnosti člověka: racionalismus, logiku a humanismus.
-- **Čeští autoři:** :autori-cz:
-- **Zahraniční autoři:** :autori:
-
-\pagebreak
+- vzniklo v 18. stol. v Anglii a Francii
+- důraz na vědu, osvícení rozumem
+- navazuje na renesanci
+- optimismus, svoboda všech lidí a rovnost
+- víra v boha, ale lidé se na něj nespoléhají
+- **Zahraniční autoři:** Voltaire (filozof, FR), Jonathan Swift (Guliverovy cesty - satirický fiktivní cestopis, UK), Henry Fielding
 
 # Daniel Defoe (1660-1731)
 

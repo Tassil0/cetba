@@ -10,7 +10,7 @@ header-includes: |
 	\usepackage{fancyhdr}
 	\pagestyle{fancy}
 	\fancyhead[R]{Filip Sikora}
-	\fancyhead[L]{:nazev-knihy:}
+	\fancyhead[L]{nazev-knihy}
 ---
 
 # nazev-knihy - autor
