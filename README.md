@@ -4,29 +4,29 @@ maturitni cetba :)
 
 ## Obsah
 
-| ID  | Autor                                                                                                  | Tags                     | Rok  | Umělecký směr                                                         |
-| --- | ------------------------------------------------------------------------------------------------------ | ------------------------ | ---- | --------------------------------------------------------------------- |
-| 1   | [Robinson Crusoe](01-robinson-crusoe.md)                                                               | Daniel Defoe             | 1719 | Osvícenství                                                           |
-| 2   | [Tři mušketýři](02-tri-musketyri.md)                                                                   | Alexandre Dumas starší   | 1844 | Romantismus                                                           |
-| 3   | [Romeo a Julie](03-romeo-a-julie.md)                                                                   | William Shakespeare      | 1597 | Renesance, Humanismus                                                 |
-| 4   | [Revizor](04-revizor.md)                                                                               | Nikolaj Vasilijevič      | 1836 | Kritický realismus, Naturalismus                                      |
-| 5   | [Černý kocour a další povídky](05-cerny-kocour)                                                        | Edgar Allan Poe          | 1843 | Romantismus                                                           |
-| 6   | [Kulička](06-kulicka.md)                                                                               | Guy de Maupassant        | 1880 | Realismus, Naturalismus                                               |
-| 7   | [Kytice](07-kytice.md)                                                                                 | Karel Jaromír Erben      | 1853 | Romantismus                                                           |
-| 8   | [Máj](08-maj.md)                                                                                       | Karel Hynek Mácha        | 1836 | Romantismus                                                           |
-| 9   | [Noc na Karlštejně](09-noc-na-karlstejne.md)                                                           | Jaroslav Vrchlický       | 1883 | Realismus                                                             |
-| 10  | [Nový epochální výlet pana Broučka tentokráté do 15. století](10-novy-epochalni-vylet-pana-broucka.md) | Svatopluk Čech           | 1888 | Realismus                                                             |
-| 11  | [V zámku a podzámčí](11-v-zamku-a-podzamci.md)                                                         | Božena Němcová           | 1856 | Realismus                                                             |
-| 12  | [Malý princ](12-maly-princ.md)                                                                         | Antoine de Saint-Exupéry | 1943 | Meziválečná literatura s humanistickymi myšlenkami                    |
-| 13  | [Na západní frontě klid](13-na-zapadni-fronte-klid.md)                                                 | Erich Maria Remarque     | 1929 | Meziválečná literatura s humanistickymi myšlenkami, Ztracená generace |
-| 14  | [Farma zvířat](14-farma-zvirat.md)                                                                     | George Orwell            | 1945 | Světová literatura 20. stol.                                          |
-| 15  | [Krysař](15-krysar.md)                                                                                 | Vojta Dyk                | 1839 | Protispolečenští anarchističtí buřiči                                 |
-| 16  | [Společenstvo prstenu](16-spolecenstvo-prstenu.md)                                                     | J. R. R. Tolkien         | 1954 | Fantasy literatura                                                    |
-| 17  | [Švejk](17-svejk.md)                                                                                   | Jaroslav Hašek           | 1923 | Protispolečenští anarchističtí buřiči                                 |
-| 18  | [Bylo nás pět](18-bylo-nas-pet.md)                                                                     | Karel Poláček            | 1946 | Česká meziválečná próza (demokratický proud)                          |
-| 19  | [Ostře sledované vlaky](19-ostre-sledovane-vlaky.md)                                                   | Bohumil Hrabal           | 1965 | Česká próza 2. pol. 20. stol. (2. vlna válečné prózy)                 |
-| 20  | [Báječná léta pod psa](20-bajecna-leta-pod-psa.md)                                                     | Michal Viewegh           | 1992 | Česká próza 2. pol. 20. stol.                                         |
-| 21  | [Smrt krásných srnců](21-smrt-krasnych-srncu.md)                                                       | Ota Pavel                | 1971 | Česká próza 2. pol. 20. stol. (2. vlna válečné prózy)                 |
+| ID  | Autor                                                                                                  | Tags                     | Rok  | Umělecký směr                                                           |
+| --- | ------------------------------------------------------------------------------------------------------ | ------------------------ | ---- | ----------------------------------------------------------------------- |
+| 1   | [Robinson Crusoe](01-robinson-crusoe.md)                                                               | Daniel Defoe             | 1719 | Osvícenství                                                             |
+| 2   | [Tři mušketýři](02-tri-musketyri.md)                                                                   | Alexandre Dumas starší   | 1844 | Romantismus                                                             |
+| 3   | [Romeo a Julie](03-romeo-a-julie.md)                                                                   | William Shakespeare      | 1597 | Renesance, Humanismus                                                   |
+| 4   | [Revizor](04-revizor.md)                                                                               | Nikolaj Vasilijevič      | 1836 | Kritický realismus                                                      |
+| 5   | [Černý kocour a další povídky](05-cerny-kocour)                                                        | Edgar Allan Poe          | 1843 | Romantismus                                                             |
+| 6   | [Kulička](06-kulicka.md)                                                                               | Guy de Maupassant        | 1880 | Naturalismus                                                            |
+| 7   | [Kytice](07-kytice.md)                                                                                 | Karel Jaromír Erben      | 1853 | Romantismus                                                             |
+| 8   | [Máj](08-maj.md)                                                                                       | Karel Hynek Mácha        | 1836 | Romantismus                                                             |
+| 9   | [Noc na Karlštejně](09-noc-na-karlstejne.md)                                                           | Jaroslav Vrchlický       | 1883 | Lumírovci                                                               |
+| 10  | [Nový epochální výlet pana Broučka tentokráté do 15. století](10-novy-epochalni-vylet-pana-broucka.md) | Svatopluk Čech           | 1888 | Ruchovci                                                                |
+| 11  | [V zámku a podzámčí](11-v-zamku-a-podzamci.md)                                                         | Božena Němcová           | 1856 | Kritický realismus                                                      |
+| 12  | [Malý princ](12-maly-princ.md)                                                                         | Antoine de Saint-Exupéry | 1943 | Meziválečná literatura s humanistickymi myšlenkami                      |
+| 13  | [Na západní frontě klid](13-na-zapadni-fronte-klid.md)                                                 | Erich Maria Remarque     | 1929 | Meziválečná literatura s humanistickymi myšlenkami, (Ztracená generace) |
+| 14  | [Farma zvířat](14-farma-zvirat.md)                                                                     | George Orwell            | 1945 | Světová literatura 20. stol., Dystopie                                  |
+| 15  | [Krysař](15-krysar.md)                                                                                 | Vojta Dyk                | 1915 | Protispolečenští anarchističtí buřiči                                   |
+| 16  | [Společenstvo prstenu](16-spolecenstvo-prstenu.md)                                                     | J. R. R. Tolkien         | 1954 | Fantasy literatura                                                      |
+| 17  | [Švejk](17-svejk.md)                                                                                   | Jaroslav Hašek           | 1923 | Protispolečenští anarchističtí buřiči                                   |
+| 18  | [Bylo nás pět](18-bylo-nas-pet.md)                                                                     | Karel Poláček            | 1946 | Generace lidových novin                                                 |
+| 19  | [Ostře sledované vlaky](19-ostre-sledovane-vlaky.md)                                                   | Bohumil Hrabal           | 1965 | Česká próza 2. pol. 20. stol. (2. vlna válečné prózy)                   |
+| 20  | [Báječná léta pod psa](20-bajecna-leta-pod-psa.md)                                                     | Michal Viewegh           | 1992 | Česká próza 2. pol. 20. stol.                                           |
+| 21  | [Smrt krásných srnců](21-smrt-krasnych-srncu.md)                                                       | Ota Pavel                | 1971 | Česká próza 2. pol. 20. stol. (2. vlna válečné prózy)                   |
 
 ## Obecná struktura ústní zkoušky
 
