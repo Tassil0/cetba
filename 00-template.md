@@ -33,6 +33,14 @@ jazyk
 
 - **postava** - charakteristika
 
+## Umělecký směr
+
+### umelecky-smer
+
+- popis-smeru
+- **Čeští autoři:** autori-cz
+- **Zahraniční autoři:** autori
+
 ## Obsah
 
 obsah
