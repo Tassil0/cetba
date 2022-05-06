@@ -45,14 +45,6 @@ jazyk
 
 obsah
 
-## Umělecký směr
-
-### umelecky-smer
-
-- popis-smeru
-- **Čeští autoři:** autori-cz
-- **Zahraniční autoři:** autori
-
 # autor
 
 o-autorovi
